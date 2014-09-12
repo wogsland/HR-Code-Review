@@ -2,9 +2,9 @@ HR Code Review
 ==============
 
 So you're looking at a stack of resumes and you don't want to waste your
-and your developers time talking to folks who have overstated their skills.
+and your developers' time talking to folks who have overstated their skills.
 Wouldn't it be great if you could put in their GitHub username and get back
-an quick analysis of all the publicly available code they've written?
+a quick analysis of all the publicly available code they've written?
 
 HR Code Review does just that! It polls grades from Code Climate, information
 from Travis CI, and ???
