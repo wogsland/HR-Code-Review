@@ -1,0 +1,9 @@
+<Files "README.md">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files "credentials.json">
+    Order Allow,Deny
+    Deny from all
+</Files>
